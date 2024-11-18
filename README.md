@@ -111,7 +111,7 @@ Below is a detailed UML sequence diagram illustrating how the data is requested 
 
 
  
- ![UML (1)](https://github.com/user-attachments/assets/d33f4258-1d21-4956-9352-e99a8a4c6a0e)
+ [UML (1)](https://github.com/user-attachments/assets/d33f4258-1d21-4956-9352-e99a8a4c6a0e)
 
 
 Sequence Description: 
